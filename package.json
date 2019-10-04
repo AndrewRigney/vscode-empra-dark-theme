@@ -1,0 +1,22 @@
+{
+    "name": "empradark",
+    "displayName": "EmpraOS - Dark",
+    "description": "EmpraOS Dark Theme",
+    "version": "1.0.0",
+    "publisher": "andrewrigney",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EmpraOS - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/empra-dark-color-theme.json"
+            }
+        ]
+    }
+}
