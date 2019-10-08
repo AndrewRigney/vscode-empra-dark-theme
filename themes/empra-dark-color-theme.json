@@ -1,13 +1,24 @@
 {
-    "name": "GeneratedTheme",
+    "name": "EmpraOSDark",
     "colors": {
         "editor.foreground": "#fefefe",
         "editor.background": "#2c3339",
+        "menu.background": "#2c3339",
+        "menu.border": "#1b2023",
+        "menu.foreground": "#fefefe",
+        "terminal.background": "#2c3339",
+        "terminal.border": "#1b2023",
         "titleBar.activeBackground": "#2c3339",
+        "titleBar.border": "#1b2023",
         "sideBar.background": "#2c3339",
         "sideBarSectionHeader.background": "#2c3339",
         "sideBarTitle.foreground": "#2c3339",
-        "list.activeSelectionBackground": "#00000033",
+        "sideBar.border": "#1b2023",
+        "list.activeSelectionBackground": "#fefefe",
+        "list.activeSelectionForeground": "#2c3339",
+        "list.inactiveSelectionBackground": "#2c3339",
+        "list.inactiveSelectionForeground": "#fefefe",
+        "dropdown.listBackground": "#2c3339",
         "activityBar.background": "#2c3339",
         "activityBar.foreground": "#fefefe",
         "activityBarBadge.background": "#2c3339",
@@ -16,7 +27,7 @@
         "editorGroupHeader.tabsBackground": "#2c3339",
         "tab.activeBorder": "#2c3339",
         "tab.inactiveBackground": "#2c3339",
-        "tab.inactiveForeground": "#ffffff33"
+        "tab.inactiveForeground": "#7a7b7c"
     },
     "tokenColors": [
         {
